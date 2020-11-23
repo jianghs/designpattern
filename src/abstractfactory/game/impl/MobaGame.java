@@ -1,6 +1,6 @@
-package factory.abstractfactory.game.impl;
+package abstractfactory.game.impl;
 
-import factory.abstractfactory.game.Game;
+import abstractfactory.game.Game;
 
 /**
  * @className: MobaGame

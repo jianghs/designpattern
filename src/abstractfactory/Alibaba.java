@@ -1,11 +1,9 @@
-package factory.abstractfactory;
+package abstractfactory;
 
-import factory.abstractfactory.game.Game;
-import factory.abstractfactory.game.impl.FpsGame;
-import factory.abstractfactory.game.impl.RtsGame;
-import factory.abstractfactory.software.SoftWare;
-import factory.abstractfactory.software.impl.DingTalk;
-import factory.abstractfactory.software.impl.QQ;
+import abstractfactory.game.Game;
+import abstractfactory.game.impl.RtsGame;
+import abstractfactory.software.SoftWare;
+import abstractfactory.software.impl.DingTalk;
 
 /**
  * @className: Alibaba

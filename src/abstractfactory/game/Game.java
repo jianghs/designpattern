@@ -1,4 +1,4 @@
-package factory.abstractfactory.game;
+package abstractfactory.game;
 
 /**
  * @className: Game

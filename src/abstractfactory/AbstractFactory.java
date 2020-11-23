@@ -1,7 +1,7 @@
-package factory.abstractfactory;
+package abstractfactory;
 
-import factory.abstractfactory.game.Game;
-import factory.abstractfactory.software.SoftWare;
+import abstractfactory.game.Game;
+import abstractfactory.software.SoftWare;
 
 /**
  * @className: AbstractFactory

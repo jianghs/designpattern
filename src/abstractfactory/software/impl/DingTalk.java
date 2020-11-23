@@ -1,6 +1,6 @@
-package factory.abstractfactory.software.impl;
+package abstractfactory.software.impl;
 
-import factory.abstractfactory.software.SoftWare;
+import abstractfactory.software.SoftWare;
 
 /**
  * @className: DingTalk

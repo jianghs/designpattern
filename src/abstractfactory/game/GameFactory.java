@@ -1,8 +1,8 @@
-package factory.abstractfactory.game;
+package abstractfactory.game;
 
-import factory.abstractfactory.game.impl.FpsGame;
-import factory.abstractfactory.game.impl.MobaGame;
-import factory.abstractfactory.game.impl.RtsGame;
+import abstractfactory.game.impl.FpsGame;
+import abstractfactory.game.impl.MobaGame;
+import abstractfactory.game.impl.RtsGame;
 
 /**
  * @className: GameFactory
